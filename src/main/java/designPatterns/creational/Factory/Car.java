@@ -1,6 +1,6 @@
-package designPatterrns.creational.Factory;
+package designPatterns.creational.Factory;
 
-public class Car implements Vehicle{
+public class Car implements Vehicle {
     @Override
     public void drive() {
         System.out.println("Driving a car");

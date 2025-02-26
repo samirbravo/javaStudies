@@ -1,4 +1,4 @@
-package designPatterrns.creational.Factory;
+package designPatterns.creational.Factory;
 
 public class VehicleFactory {
     public static Vehicle getVehicle(final String type) {

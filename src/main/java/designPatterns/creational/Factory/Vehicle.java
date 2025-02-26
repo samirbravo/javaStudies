@@ -1,4 +1,4 @@
-package designPatterrns.creational.Factory;
+package designPatterns.creational.Factory;
 
 public interface Vehicle {
     void drive();
